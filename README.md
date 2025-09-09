@@ -81,7 +81,7 @@ Estrutura mínima pronta para entrevistas: sem funcionalidades implementadas, ma
 ## 🚀 Como Iniciar
 
 Pré-requisitos:
-- Node.js 18+
+- Node.js 20.19.0+
 - npm ou yarn
 
 Passos:
